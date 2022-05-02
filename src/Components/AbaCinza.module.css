@@ -1,0 +1,102 @@
+.abacinza{
+    height: 120px;
+    width: 100%;
+    background-color: #F2F6F8
+  }
+  
+  .seta1{
+    position: relative;
+    width: 4%;
+    float: left;
+    margin-top: 35px;
+    margin-left: 4%;
+  }
+  
+  .seta2{
+    position: relative;
+    width: 4%;
+    float: right;
+    margin-top: 35px;
+    margin-right: 4%;
+    transform: rotate(180deg);
+  }
+  
+  .icone1{
+    position: relative;
+    width: 3%;
+    float: left;
+    margin-left: 6%;
+    margin-top: 38px;
+  }
+  
+  .quimica{
+    font-size: 15px;
+    font-weight: 400;
+    float: left;
+    margin-top:55px;
+    margin-left: 1%;
+  }
+  
+  .icone2{
+    position: relative;
+    width: 3%;
+    float: left;
+    margin-left: 8%;
+    margin-top: 38px;
+  }
+  
+  .filosofia{
+    font-size: 15px;
+    font-weight: 400;
+    float: left;
+    margin-top:55px;
+    margin-left: 1%;
+  }
+  
+  .icone3{
+    position: relative;
+    width: 3%;
+    float: left;
+    margin-left: 8%;
+    margin-top: 38px;
+  }
+  
+  .matematica{
+    font-size: 15px;
+    font-weight: 400;
+    float: left;
+    margin-top:55px;
+    margin-left: 1%;
+  }
+  
+  .icone4{
+    position: relative;
+    width: 3%;
+    float: left;
+    margin-left: 8%;
+    margin-top: 38px;
+  }
+  
+  .fisica{
+    font-size: 15px;
+    font-weight: 400;
+    float: left;
+    margin-top:55px;
+    margin-left: 1%;
+  }
+  
+  .icone5{
+    position: relative;
+    width: 3%;
+    float: left;
+    margin-left: 8%;
+    margin-top: 38px;
+  }
+  
+  .historia{
+    font-size: 15px;
+    font-weight: 400;
+    float: left;
+    margin-top:55px;
+    margin-left: 1%;
+  }

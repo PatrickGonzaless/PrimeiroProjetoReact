@@ -1,0 +1,36 @@
+.header{
+  width: 100%;
+  height: 130px;
+  background-color: #D9F0FF;
+}
+
+header img{
+    float: left;
+    height: 55px;
+    width: 10%;
+    margin-left: 10%;
+    margin-top: 30px;
+}
+
+nav{
+  width: 30%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-left: 60%;
+  padding-top: 50px;
+}
+
+nav a{
+  font-size: 14px;
+  text-decoration: none;
+  color: black;
+  font-weight: 600;
+  padding-left: 30px;
+}
+
+.Pergunte{
+  padding: 10px;
+  background-color: white;
+  border-radius: 20px;
+}

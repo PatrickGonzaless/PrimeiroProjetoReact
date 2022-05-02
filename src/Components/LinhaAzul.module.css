@@ -1,0 +1,33 @@
+.linhaazul{
+    position: relative;
+    width: 100%;
+    clear: both;
+    height: 90px;
+    background-color:#c7e6fa ;
+  }
+  
+  .linhaazul h2{
+    text-align: left;
+    margin-left: 9%;
+    padding-top: 10px;
+    font-size: 25px;
+    font-weight: bolder;
+  }
+  
+  .linhaazul p{
+    text-align: left;
+    margin-left: 9%;
+    padding-top: 10px;
+  }
+  
+  .linhaazul div{
+    position: relative;
+    float: right;
+    margin-top: -50px;
+    margin-right: 9%;
+    font-weight: bolder;
+    width: 12%;
+    border: solid black 2px;
+    border-radius:20px ;
+    padding: 7px;
+  }

@@ -1,0 +1,100 @@
+.Comentarios{
+    position: relative;
+    width: 40%;
+    height: 300px;
+    background-color: white;
+    margin-left: 450px;
+    margin-top: -350px;
+    margin-bottom: 200px;
+    clear: both;
+    border: 20px solid #D9F0FF;
+  }
+  
+  .Comentarios p{
+    margin-top: 130px;
+    font-size: 18px;
+  }
+  
+  .seta1{
+    position: relative;
+      width: 4%;
+      float: left;
+      margin-top: -380px;
+      margin-left: 4%; 
+  }
+  
+  .seta2{
+    position: relative;
+      width: 4%;
+      float: right;
+      margin-top: -380px;
+      margin-right: 4%;
+      transform: rotate(180deg);
+  }
+  
+  .perfil1{
+    position: relative;
+    float: left;
+    width: 4%;
+    margin-top: -160px;
+    border-radius: 40px;
+    margin-left: 68%;
+  }
+  
+  .perfil2{
+    position: relative;
+    float: left;
+    width: 4%;
+    margin-top: -160px;
+    border-radius: 40px;
+    margin-left: 59%;
+  }
+  
+  .perfil3{
+    position: relative;
+    float: left;
+    width: 5%;
+    margin-top: -180px;
+    border-radius: 40px;
+    margin-left: 49%;
+  }
+  
+  .perfil4{
+    position: relative;
+    float: left;
+    width: 4%;
+    margin-top: -160px;
+    border-radius: 40px;
+    margin-left: 40%;
+  }
+  
+  .perfil5{
+    position: relative;
+    float: left;
+    width: 4%;
+    margin-top: -160px;
+    border-radius: 40px;
+    margin-left: 29.5%;
+  }
+  
+  .p2{
+    position: absolute;
+    clear: both;
+    font-size: 22px;
+    font-weight: 500;
+    left: 49.7%;
+    top: 2730px;
+  }
+  
+  .verificacao{
+    position: relative;
+    width: 10%;
+    margin-left: 2.8%;
+    margin-top: 60px;
+  }
+  
+  .verifh1{
+    font-size: 30px;
+    margin-left: 4%;
+    margin-bottom: 50px;
+  }

@@ -1,0 +1,138 @@
+.section2{
+    position: relative;
+    height: 1700px;
+    width: 100%;
+    background-color:white;
+  }
+  
+  .p1{
+    font-size: 15px;
+    color: white;
+    margin-top: 60px;
+    font-weight: 500;
+    background-color: rgb(58, 148, 233);
+    width: 13%;
+    margin-left: 43%;
+    padding: 2px;
+    border-radius: 5px;
+  }
+  
+  .section2 h1{
+    font-size: 40px;
+    margin-top: 25px;
+    font-weight: bolder;
+  }
+  
+  .p2{
+    font-size: 17px;
+    margin-top: 15px;
+  }
+  
+  .p3{
+    position:absolute;
+    font-size: 20px;
+    top: 470px;
+    left: 35%;
+    font-weight: bold;
+  }
+  
+  .p4{
+    position:absolute;
+    font-size: 20px;
+    top: 470px;
+    left: 15%;
+    font-weight: bold;
+  }
+  
+  .p5{
+    position:absolute;
+    font-size: 20px;
+    top: 470px;
+    left: 54%;
+    font-weight: bold;
+  }
+  
+  .p6{
+    position:absolute;
+    font-size: 20px;
+    top: 470px;
+    left: 74%;
+    font-weight: bold;
+  }
+  
+  .p7{
+    margin-top: -180px;
+    margin-left: 30px;
+    font-weight: 500;
+  }
+  
+  .p8{
+    margin-top: 90px;
+    margin-left: 20px;
+    opacity: 0.8;
+  }
+  
+  .livro1{
+    position: relative;
+    width: 10%;
+    height: 230px;
+    border-radius: 8px;
+    float: left;
+    margin-left: 15%;
+    margin-top: 80px;
+  }
+  
+  .livro2{
+    position: relative;
+    width: 10%;
+    height: 230px;
+    border-radius: 8px;
+    float: left;
+    margin-left: 10%;
+    margin-top: 80px;
+  }
+  
+  .livro3{
+    position: relative;
+    width: 10%;
+    height: 230px;
+    border-radius: 8px;
+    float: left;
+    margin-left: 10%;
+    margin-top: 80px;
+  }
+  
+  .livro4{
+    position: relative;
+    width: 10%;
+    height: 230px;
+    border-radius: 8px;
+    float: left;
+    margin-left: 10%;
+    margin-top: 80px;
+  }
+  
+  .Encontre{
+    position: absolute;
+    top: 630px;
+    left: 650px;
+    font-size: 20px;
+    background-color: rgb(58, 148, 233);
+    padding: 20px;
+    border-radius: 48px;
+    color: white;
+  }
+  
+  .h12{
+    position:absolute;
+    top: 880px;
+    left: 550px;
+  }
+  
+  .star{
+    position: relative;
+    margin-top: 580px;
+    width: 20%;
+    margin-left: 2%;
+  }
+  
